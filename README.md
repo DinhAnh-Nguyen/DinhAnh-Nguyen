@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">A Software Engineer student at Southern Alberta Institute of Technology (SAIT)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhanh-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="dinhanh-nguyen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhanh-nguyen" alt="dinhanh-nguyen" /></a> </p>
 
 - 🌱 I’m currently learning **reactjs, nodejs**
 
