@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
-<h3 align="center">A Software Engineer student at Southern Alberta Institute of Technology (SAIT)</h3>
+<h3 align="center">A Software Development student at Southern Alberta Institute of Technology (SAIT)</h3>
 
 
-- 🌱 I’m currently learning **reactjs, nodejs**
+- 🌱 I’m currently learning **reactjs**
 
 - 📫 How to reach me **dinhanhnguyen.work@gmail.com**
 
