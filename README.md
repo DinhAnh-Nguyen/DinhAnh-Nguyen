@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
-<h3 align="center">A Software Development student at Southern Alberta Institute of Technology (SAIT)</h3>
+<h3 align="center">A Web Developer with the mindset of becoming the best in the field</h3>
 
 
 - 🌱 I’m currently learning **reactjs**
